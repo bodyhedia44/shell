@@ -6,7 +6,6 @@ Welcome to my implementation of a Unix-like shell This project is a deep dive in
 
 This shell mimics the behavior of basic Unix shells like `bash` or `zsh`, providing a hands-on experience with:
 
-* Process creation and management
 * Argument parsing
 * I/O redirection
 * Pipes (`|`)
